@@ -1,6 +1,6 @@
 # Denpa\_QR
 
-これはMirrorです
+Mirror
 
 
 
